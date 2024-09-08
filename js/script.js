@@ -11,7 +11,7 @@ const left = document.getElementById("left");
 const addpro = document.querySelector("#ad-pro");
 const proconatiner = document.querySelector("#pro-container");
 const proz = `
-<div class="card p-card">
+  <div class="card p-card">
           <img src="./uploads/camera.jpg" class="card-img-top" alt="..." />
           <div class="card-body">
             <h2 class="card-title d-flex justify-content-center text-secondary">
